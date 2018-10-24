@@ -1,0 +1,6 @@
+model_checkpoint_path: "D:\\pyProjects\\myTensorflow\\model\\poems-35000"
+all_model_checkpoint_paths: "D:\\pyProjects\\myTensorflow\\model\\poems-15000"
+all_model_checkpoint_paths: "D:\\pyProjects\\myTensorflow\\model\\poems-20000"
+all_model_checkpoint_paths: "D:\\pyProjects\\myTensorflow\\model\\poems-25000"
+all_model_checkpoint_paths: "D:\\pyProjects\\myTensorflow\\model\\poems-30000"
+all_model_checkpoint_paths: "D:\\pyProjects\\myTensorflow\\model\\poems-35000"
