@@ -23,7 +23,7 @@ incremental==17.5.0
 Keras-Applications==1.0.6
 Keras-Preprocessing==1.0.5
 lml==0.0.4
-lxml==4.1.1
+lxml==4.6.5
 Markdown==3.0.1
 multidict==3.3.2
 numpy==1.15.2
