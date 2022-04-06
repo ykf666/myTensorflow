@@ -57,7 +57,7 @@ six==1.11.0
 tensorboard==1.11.0
 tensorflow==1.11.0
 termcolor==1.1.0
-Twisted==18.7.0
+Twisted==22.2.0
 tzlocal==1.5.1
 urllib3==1.22
 w3lib==1.19.0
