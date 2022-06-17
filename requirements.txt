@@ -51,7 +51,7 @@ pytz==2017.3
 pywin32==223
 queuelib==1.5.0
 requests==2.18.4
-Scrapy==1.5.1
+Scrapy==2.6.1
 service-identity==17.0.0
 six==1.11.0
 tensorboard==1.11.0
